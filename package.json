@@ -1,0 +1,76 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "gulp-n-includer",
+        "scope": null,
+        "escapedName": "gulp-n-includer",
+        "name": "gulp-n-includer",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\copy\\wzry\\test"
+    ]
+  ],
+  "_from": "gulp-n-includer@latest",
+  "_inCache": true,
+  "_location": "/gulp-n-includer",
+  "_nodeVersion": "6.9.2",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/gulp-n-includer_2.0.1_1520928535277_0.46256642131692005"
+  },
+  "_npmUser": {
+    "name": "niyg",
+    "email": "1003473088@qq.com"
+  },
+  "_npmVersion": "3.10.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "gulp-n-includer",
+    "scope": null,
+    "escapedName": "gulp-n-includer",
+    "name": "gulp-n-includer",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/gulp-n-includer/-/gulp-n-includer-2.0.1.tgz",
+  "_shasum": "cd1a93fa935700480933a3e333fea19693066686",
+  "_shrinkwrap": null,
+  "_spec": "gulp-n-includer",
+  "_where": "E:\\copy\\wzry\\test",
+  "author": "niyg",
+  "dependencies": {},
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "cd1a93fa935700480933a3e333fea19693066686",
+    "tarball": "https://registry.npmjs.org/gulp-n-includer/-/gulp-n-includer-2.0.1.tgz",
+    "fileCount": 3,
+    "unpackedSize": 2914
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    "niyg <1003473088@qq.com>"
+  ],
+  "name": "niyg",
+  "optionalDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.2",
+  "description": "just use form includer html",
+  "keywords": [
+    "html"
+  ],
+  "dependencies": {
+    "gulp-util": "^3.0.2",
+    "through2": "^2.0.0"
+  }
+}
